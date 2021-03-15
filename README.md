@@ -9,19 +9,19 @@ Here, I cleaned and preprocessed titanic dataset from kaggle and trained my ML L
 # Working : 
 1. After running the .ipynb file, copy the .ngrok.io url, If you give the input to .ngrok.io url and it should display the following output : 
 
-[!image](https://github.com/Yuvaraj19/Titanic-Survival-Predictor-APP/blob/main/images/4.JPG)
+![image](https://github.com/Yuvaraj19/Titanic-Survival-Predictor-APP/blob/main/images/4.JPG)
 
 2. Open MIT App inveter website, Create an account and import the .aia file.
 
 3. After importing there will be 2 sections :  Blocks(for adding Fuctionality to components) and Designer(Drag and drop UI for components)
-[!image](https://github.com/Yuvaraj19/Titanic-Survival-Predictor-APP/blob/main/images/1.JPG)
+![image](https://github.com/Yuvaraj19/Titanic-Survival-Predictor-APP/blob/main/images/1.JPG)
 
-[!image](https://github.com/Yuvaraj19/Titanic-Survival-Predictor-APP/blob/main/images/3.JPG)
+![image](https://github.com/Yuvaraj19/Titanic-Survival-Predictor-APP/blob/main/images/3.JPG)
 
 4. Paste the .ngrok.io url to Url block, as shown above.
 
 5. The last step is to install MIT app inventer on your device and click on add AI companian from website.
 
-[!image](https://github.com/Yuvaraj19/Titanic-Survival-Predictor-APP/blob/main/images/2.JPG)
+![image](https://github.com/Yuvaraj19/Titanic-Survival-Predictor-APP/blob/main/images/2.JPG)
 
 6. Scan the QR or Join with code and you will see the app UI on your device. 
